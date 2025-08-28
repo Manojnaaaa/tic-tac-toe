@@ -4,7 +4,7 @@ A fun and beginner-friendly Tic Tac Toe game built using **HTML**, **CSS**, and 
 
 🚀 Live Demo
 
-👉 [Play Now](https://your-username.github.io/tic-tac-toe-js/)  
+👉 [Play Now](https://manojnaaaa.github.io/tic-tac-toe-js/)  
 *Replace `your-username` with your GitHub username once deployed.*
 
 
@@ -27,5 +27,6 @@ This project was designed to strengthen my understanding of:
 - Win-checking logic using predefined patterns
 - `localStorage.setItem()` and `localStorage.getItem()`
 - Dynamic DOM updates with JavaScript
+
 
 
